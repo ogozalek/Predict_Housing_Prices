@@ -1,2 +1,4 @@
 # Predict_Housing_Prices
  Build a Model to Predict Housing Prices
+<br>
+This project uses data analysis techniques and multiple linear regression to create three different models to predict housing prices based on a dataset for residential houses in Ames, Iowa. Various independent variables are selected to predict the dependent variable SalePrice, with the goal of producing models with better predictive accuracy than models presented in a Data Engineering course at MIT. A training set of data is used to develop the linear regression models, which are then run against a set of test data to assess predictive accuracy. Results show that increasing the number of observations in the training dataset increases the predictive accuracy of a model when it is run against the test dataset. Also, adding variables to existing variables in the regression model increases predictive accuracy when the additional variables have nonnegative correlations with SalePrice.
